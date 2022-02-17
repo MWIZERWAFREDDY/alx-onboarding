@@ -1,0 +1,8 @@
+pseudocode
+
+let assume that at the first time the sum equals to 0
+ ask a user to Enter a number 
+n is the number entered
+read n
+ now the sum=sum+n*n
+display (sum)
