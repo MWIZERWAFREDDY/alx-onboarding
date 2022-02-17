@@ -1,0 +1,12 @@
+
+A user will enter numbers that will be added to the sum 
+and when a negative number is encountered, stop adding
+ numbers and write out the final result (pseudosode)
+
+ask a user to enter a number
+the entered number is A
+let assume at the first time the sum is equal to 0
+if a user enters a number less than 0
+the program will atomatically print the sum
+else 
+if A is positive it will be added to the sum
